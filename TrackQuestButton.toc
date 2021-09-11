@@ -1,0 +1,6 @@
+## Interface: 20502
+## Title: Track Quest Button
+## Author: Isaac Simmons 
+## Notes: Adds a "Track Quest" button to the quest log ui
+
+TrackQuestButton.lua
